@@ -25,7 +25,9 @@ SECRET_KEY = 'doip=3_t9+^(79h_d33zx%u=qh9)@jort4b-p)4spxhw7seyek'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://lukewheeler1986.pythonanywhere.com/',
+]
 
 
 # Application definition
